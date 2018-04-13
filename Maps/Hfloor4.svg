@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="600px" height="280px" viewBox="0 0 600 280" style="enable-background:new 0 0 600 280;" xml:space="preserve">
+<g id="Base">
+	<polygon id="Circulation" style="fill:#F2F2F2;stroke:#000000;stroke-width:2;" points="133.258,10.999 404.766,10.999 
+		404.777,5.974 437.553,5.974 437.83,10.999 483.299,10.999 483.299,264.387 430.301,264.459 430.301,278.084 376.656,278.084 
+		375.363,264.525 236.829,264.625 237.051,278.084 193.101,278.084 192.455,264.387 133.258,264.387 	"/>
+	<g id="Elevator_1_">
+		<rect id="Elevator" x="255.318" y="86.743" style="fill:#B3B3B3;stroke:#000000;" width="34.318" height="102.966"/>
+		
+			<text transform="matrix(0.0097 0.9054 -1 0.0087 271.0015 123.4917)" style="font-family:'MyriadPro-Regular'; font-size:7.7579;">ELEVATOR</text>
+	</g>
+	<polygon id="Reception" style="fill:#C69C6D;stroke:#000000;" points="443.264,145.742 443.305,143.08 447.088,143.127 
+		447.289,129.813 443.508,129.766 443.549,127.104 451.109,127.197 450.828,145.838 	"/>
+	
+		<text transform="matrix(1.1036 0.036 -0.0398 0.9992 323.1465 119.7358)" style="font-family:'MyriadPro-Regular'; font-size:7.0231;">STAIRS</text>
+	<g id="Stairs_1_">
+		<polygon id="Stairs" style="fill:#B3B3B3;stroke:#000000;" points="363.23,100.778 363.246,130.469 314.232,130.486 
+			314.24,145.332 363.252,145.314 363.266,175.006 289.749,175.033 289.714,100.804 		"/>
+		<line style="fill:none;stroke:#000000;" x1="350.992" y1="130.473" x2="350.979" y2="100.782"/>
+		<line style="fill:none;stroke:#000000;" x1="338.738" y1="130.479" x2="338.725" y2="100.786"/>
+		<line style="fill:none;stroke:#000000;" x1="326.488" y1="130.482" x2="326.473" y2="100.791"/>
+		<line style="fill:none;stroke:#000000;" x1="314.232" y1="130.486" x2="314.221" y2="100.794"/>
+		<polyline style="stroke:#000000;" points="301.994,160.182 351.006,160.162 338.754,167.592 338.748,152.748 351.006,160.162 		
+			"/>
+	</g>
+	<text transform="matrix(1 0 0 1 385.0225 116.8379)" style="fill:#707070; font-family:'MyriadPro-BoldCond'; font-size:18;">Floor 4</text>
+	<text transform="matrix(1 0 0 1 194.4248 142.6094)" style="fill:#707070; font-family:'MyriadPro-BoldCond'; font-size:18;">Floor 4</text>
+</g>
+<g id="Rooms">
+	<a id="H4Male" xlink:href="#" >
+		<g>
+			<polygon style="fill:#E6E6E6;" points="338.707,86.029 363.098,85.721 362.684,100.889 339.158,101.197 			"/>
+			<path d="M362.832,86.043l0.85,14.583l-24.688-0.335l-0.414-14.585L362.832,86.043 M363.363,85.398l-24.955,0.37l0.479,15.751
+				l24.521-0.369L363.363,85.398L363.363,85.398z"/>
+		</g>
+		
+			<text transform="matrix(0.7376 0.0361 -0.0266 0.9996 346.5273 91.6968)" style="font-family:'MyriadPro-Regular'; font-size:5.2656;">Male Toilet</text>
+		
+			<text transform="matrix(0.7376 0.0361 -0.0266 0.9996 346.3604 98.0146)" style="font-family:'MyriadPro-Regular'; font-size:5.2656;">Toilet</text>
+	</a>
+	<a id="H4UniSex" xlink:href="#" >
+		<g>
+			<polygon style="fill:#E6E6E6;" points="289.559,86.029 316.139,85.721 315.689,100.889 290.049,101.197 			"/>
+			<path d="M315.852,86.043l0.93,14.583l-26.907-0.335l-0.454-14.585L315.852,86.043 M316.43,85.398l-27.197,0.37l0.527,15.751
+				l26.729-0.369L316.43,85.398L316.43,85.398z"/>
+		</g>
+		
+			<text transform="matrix(0.8038 0.0361 -0.029 0.9996 297.1348 91.5024)" style="font-family:'MyriadPro-Regular'; font-size:4.6805;">UNISEX</text>
+		
+			<text transform="matrix(0.8038 0.0361 -0.029 0.9996 297.377 97.1318)" style="font-family:'MyriadPro-Regular'; font-size:4.6805;">TOILET</text>
+	</a>
+	<a id="H4Female" xlink:href="#" >
+		<g>
+			<polygon style="fill:#E6E6E6;" points="326.027,175.166 362.533,174.859 361.914,190.027 326.701,190.334 			"/>
+			<path d="M362.137,175.182l1.271,14.582l-36.955-0.334l-0.621-14.588L362.137,175.182 M362.932,174.537l-37.354,0.369
+				l0.725,15.748l36.707-0.367L362.932,174.537L362.932,174.537z"/>
+		</g>
+		
+			<text transform="matrix(1.1036 0.036 -0.0398 0.9992 333.6396 181.1348)" style="font-family:'MyriadPro-Regular'; font-size:4.6821;">FEMALE</text>
+		
+			<text transform="matrix(1.1036 0.036 -0.0398 0.9992 334.6338 186.7871)" style="font-family:'MyriadPro-Regular'; font-size:4.6821;">TOILET</text>
+	</a>
+	<a id="H4Comm" xlink:href="#" >
+		<g>
+			<polygon style="fill:#E6E6E6;" points="289.833,175.166 326.34,174.859 325.721,190.027 290.507,190.334 			"/>
+			<path d="M325.943,175.182l1.27,14.582l-36.956-0.334l-0.623-14.588L325.943,175.182 M326.738,174.537l-37.354,0.369l0.725,15.748
+				l36.708-0.367L326.738,174.537L326.738,174.537z"/>
+		</g>
+		
+			<text transform="matrix(1.1036 0.036 -0.0398 0.9992 301.71 181.1816)" style="font-family:'MyriadPro-Regular'; font-size:4.6821;">Comm</text>
+		
+			<text transform="matrix(1.1036 0.036 -0.0398 0.9992 303.0264 186.8457)" style="font-family:'MyriadPro-Regular'; font-size:4.6821;">Store</text>
+	</a>
+	<a id="H4Lobby" xlink:href="#" >
+		<g>
+			<polygon style="fill:#E6E6E6;" points="460.695,149.432 460.357,123.686 477.162,123.505 477.496,149.252 			"/>
+			<path d="M460.686,123.975l16.156-0.173l0.33,25.161l-16.158,0.174L460.686,123.975 M460.031,123.398l0.344,26.331l17.451-0.187
+				l-0.346-26.333L460.031,123.398L460.031,123.398z"/>
+		</g>
+		
+			<text transform="matrix(0.0097 0.9054 -1 0.0087 466.0762 127.0874)" style="font-family:'MyriadPro-Regular'; font-size:7.7579;">LOBBY</text>
+	</a>
+	<a id="RH4022" xlink:href="#" >
+		<g>
+			<path style="fill:#E6E6E6;" d="M178.437,203.643l0.247,22.229c-1.265,0.158-5.804,1.203-5.727,8.146l0.004,0.426l5.818-0.053
+				l0.331,29.896l-45.885,0.416l-0.672-60.641L178.437,203.643z"/>
+			<path d="M133.543,264.268l-0.663-59.785l45.239-0.412l0.238,21.428c-1.634,0.291-5.798,1.695-5.723,8.521l0.009,0.854
+				l0.647-0.004l5.089-0.049h0.081l0.322,29.035L133.543,264.268 M132.906,265.127l46.533-0.42l-0.341-30.748c0,0,0,0-5.817,0.053
+				c-0.084-7.686,5.731-7.74,5.731-7.74l-0.256-23.061l-46.533,0.424L132.906,265.127L132.906,265.127z"/>
+		</g>
+		
+			<text id="RH4022_1_" transform="matrix(1.1045 0 0 1 136.8203 247.0146)" style="font-family:'MyriadPro-Regular'; font-size:7.0222;">RH4022</text>
+	</a>
+	<a id="RH4011" xlink:href="#" >
+		<g>
+			<path style="fill:#E6E6E6;" d="M404.803,52.78l-25.549,0.004c-0.166-1.147-1.324-5.267-9.299-5.265h-0.49l0.002,5.267
+				l-34.354,0.005l-0.021-41.548l69.691-0.012L404.803,52.78z"/>
+			<path d="M335.584,11.537l68.709-0.012l0.018,40.962l-24.613,0.004c-0.314-1.482-1.896-5.266-9.738-5.266h-0.979l0.004,0.584
+				v4.609v0.073l-33.371,0.005L335.584,11.537 M334.6,10.952l0.021,42.133l35.338-0.006c0,0,0,0-0.002-5.267
+				c8.834-0.001,8.836,5.266,8.836,5.266l26.502-0.005l-0.018-42.132L334.6,10.952L334.6,10.952z"/>
+		</g>
+		<text transform="matrix(1.4204 0 0 1 354.7412 32.0127)" style="font-family:'MyriadPro-Regular'; font-size:7.0222;">RH4011</text>
+	</a>
+	<a id="RH4016" xlink:href="#" >
+		<g>
+			<path style="fill:#E6E6E6;" d="M265.853,10.972l69.686,0.535l-0.898,41.545l-25.547-0.197c-0.143-1.146-1.207-5.276-9.184-5.337
+				l-0.49-0.004l-0.113,5.267l-34.351-0.264L265.853,10.972z"/>
+			<path d="M334.156,52.758l-24.619-0.191c-0.283-1.484-1.777-5.281-9.621-5.34l-0.981-0.008l-0.012,0.585l-0.1,4.608l-0.004,0.073
+				l-33.369-0.256l0.886-40.96l68.704,0.529L334.156,52.758 M335.123,53.35l0.912-42.13l-70.667-0.543l-0.912,42.129l35.333,0.272
+				c0,0,0,0,0.114-5.267c8.833,0.068,8.718,5.334,8.718,5.334L335.123,53.35L335.123,53.35z"/>
+		</g>
+		<text transform="matrix(1.4204 0 0 1 288.0137 31.5801)" style="font-family:'MyriadPro-Regular'; font-size:7.0222;">RH4016</text>
+	</a>
+	<a id="RH4019-22" xlink:href="#" >
+		<g>
+			<path style="fill:#E6E6E6;" d="M132.347,117.052V11.109h45.889v43.077c-1.266,0.255-5.817-2.231-5.817,9.893v0.747h5.817v52.226
+				H132.347L132.347,117.052z"/>
+			<path d="M177.913,11.855v37.424c-1.637,0.48-5.816,2.878-5.816,14.8v1.493h0.646h5.09h0.081v50.732H132.67V11.855H177.913
+				 M178.559,10.363h-46.535v107.435h46.535V64.081c0,0,0,0-5.816,0c0-13.429,5.816-8.481,5.816-8.481V10.363L178.559,10.363z"/>
+		</g>
+		<text transform="matrix(1.1045 0 0 1 136.2979 48.7939)" style="font-family:'MyriadPro-Regular'; font-size:7.0222;">RH4019-22</text>
+	</a>
+	<a id="RH4021" xlink:href="#" >
+		<g>
+			<path style="fill:#E6E6E6;" d="M236.117,222.656l16.519,0.094c0.101,1.146,0.82,5.271,5.978,5.301l0.318,0.002l0.035-5.268
+				l22.214,0.127l-0.276,41.547l-45.063-0.254L236.117,222.656z"/>
+			<path d="M280.587,264.164l-44.427-0.25l0.273-40.961l15.918,0.086c0.194,1.484,1.19,5.275,6.261,5.303l0.635,0.006l0.003-0.586
+				l0.031-4.604l0.001-0.074l21.578,0.123L280.587,264.164 M281.22,264.754l0.28-42.133l-22.848-0.129c0,0,0,0-0.036,5.266
+				c-5.711-0.031-5.677-5.297-5.677-5.297l-17.136-0.098l-0.281,42.133L281.22,264.754L281.22,264.754z"/>
+		</g>
+		<text transform="matrix(1.0846 0 0 1 247.8398 249.0596)" style="font-family:'MyriadPro-Regular'; font-size:7.0222;">RH4021</text>
+	</a>
+	<a id="RH4019" xlink:href="#" >
+		<g>
+			<path style="fill:#E6E6E6;" d="M376.292,264.375l-48.483-0.086l0.104-41.547l17.771,0.031c0.111,1.145,0.907,5.268,6.455,5.271
+				h0.341l0.019-5.27l23.896,0.047L376.292,264.375z"/>
+			<path d="M328.247,223.035l17.127,0.029c0.217,1.479,1.306,5.268,6.761,5.271l0.688,0.002l0.003-0.584l0.012-4.604v-0.072
+				l23.218,0.041l-0.099,40.963l-47.803-0.086L328.247,223.035 M327.565,222.447l-0.104,42.135l49.169,0.088l0.104-42.133
+				l-24.585-0.045c0,0,0,0-0.017,5.266c-6.146-0.01-6.134-5.277-6.134-5.277L327.565,222.447L327.565,222.447z"/>
+		</g>
+		
+			<text id="RH4019_1_" transform="matrix(1.1045 0 0 1 338.3086 249.6445)" style="font-family:'MyriadPro-Regular'; font-size:7.0222;">RH4019</text>
+	</a>
+	<a id="RH4017_1_" xlink:href="#" >
+		<g>
+			<path style="fill:#E6E6E6;" d="M266.887,52.561l-26.193-0.114c-0.153-1.147-1.256-5.272-9.231-5.308l-0.49-0.002l-0.067,5.267
+				l-33.062-0.154l-0.125-41.546l69.688,0.311L266.887,52.561z"/>
+			<path d="M197.929,11.584l68.709-0.279l-0.514,40.962l-24.619-0.109c-0.297-1.484-1.828-5.275-9.67-5.311l-0.98-0.004
+				l-0.008,0.586l-0.058,4.608v0.073l-33.373-0.149l0.514-40.962 M196.955,10.994l-0.53,41.547l35.336,0.157c0,0,0,0,0.067-5.267
+				c8.833,0.04,8.768,5.306,8.768,5.306l26.501,0.118l0.53-42.132L196.955,10.994L196.955,10.994z"/>
+		</g>
+		
+			<text id="RH4017_2_" transform="matrix(1.4204 0 0 1 217.207 31.5801)" style="font-family:'MyriadPro-Regular'; font-size:7.0222;">RH4017</text>
+	</a>
+	<a id="RH4023" xlink:href="#" >
+		<g>
+			<path style="fill:#E6E6E6;" d="M132.347,204.031v-86.846h45.889v35.313c-1.266,0.209-5.817-1.83-5.817,8.111v0.605h5.817v42.813
+				L132.347,204.031L132.347,204.031z"/>
+			<path d="M177.913,117.796v30.681c-1.637,0.396-5.816,2.356-5.816,12.131v1.228h0.646h5.09h0.081v41.59H132.67V117.8
+				L177.913,117.796 M178.559,116.572h-46.535v88.07h46.535v-44.033c0,0,0,0-5.816,0c0-11.008,5.816-6.952,5.816-6.952V116.572
+				L178.559,116.572z"/>
+		</g>
+		
+			<text id="RH4023_1_" transform="matrix(1.1045 0 0 1 137.4688 146.6094)" style="font-family:'MyriadPro-Regular'; font-size:7.0222;">RH4023</text>
+	</a>
+	<a id="H4Store" xlink:href="#" >
+		<g>
+			<polygon style="fill:#E6E6E6;" points="316.34,86.021 338.441,85.714 338.066,100.881 316.748,101.19 			"/>
+			<path d="M338.201,86.035l0.77,14.584l-22.373-0.335l-0.379-14.585L338.201,86.035 M338.682,85.391L316.07,85.76l0.438,15.752
+				l22.221-0.369L338.682,85.391L338.682,85.391z"/>
+		</g>
+		
+			<text transform="matrix(0.6685 0.0361 -0.0241 0.9997 322.3594 94.3345)" style="font-family:'MyriadPro-Regular'; font-size:7.0196;">Store</text>
+	</a>
+	<a id="RH4020" xlink:href="#" >
+		<g>
+			<path style="fill:#E6E6E6;" d="M328.455,264.584l-48.483-0.086l0.099-41.547l17.775,0.031c0.111,1.145,0.907,5.268,6.455,5.271
+				h0.342l0.019-5.27l23.896,0.047L328.455,264.584z"/>
+			<path d="M280.411,223.244l17.127,0.029c0.217,1.479,1.306,5.268,6.761,5.271l0.682,0.002l0.004-0.584l0.017-4.604v-0.072
+				l23.217,0.041l-0.098,40.963l-47.803-0.086L280.411,223.244 M279.729,222.656l-0.103,42.135l49.168,0.088l0.104-42.133
+				l-24.586-0.045c0,0,0,0-0.017,5.266c-6.147-0.01-6.133-5.277-6.133-5.277L279.729,222.656L279.729,222.656z"/>
+		</g>
+		<text transform="matrix(1.167 0 0 1 290.4727 249.8535)" style="font-family:'MyriadPro-Regular'; font-size:7.0222;">R</text>
+		<text transform="matrix(1.1045 0 0 1 294.8809 249.8535)" style="font-family:'MyriadPro-Regular'; font-size:7.0222;">H4020</text>
+	</a>
+</g>
+<g id="Portals">
+	<line id="Elev.1.floor6" style="fill:none;stroke:#FF00FF;" x1="267.407" y1="155.404" x2="255.318" y2="148.232"/>
+	<line id="Stair.1.floor6" style="fill:none;stroke:#FF00FF;" x1="339.365" y1="118.201" x2="308.299" y2="121.099"/>
+	<line id="Elev.1.floor4" style="fill:none;stroke:#FF00FF;" x1="264.456" y1="132.503" x2="255.318" y2="126.048"/>
+	<line id="Stair.1.floor4" style="fill:none;stroke:#FF00FF;" x1="363.9" y1="109.186" x2="322.266" y2="109.186"/>
+</g>
+<g id="Doors">
+	<line id="RH4019-22_1_" style="fill:none;stroke:#00FF00;" x1="172.743" y1="63.614" x2="164.017" y2="73.27"/>
+	<line id="RH4017" style="fill:none;stroke:#00FF00;" x1="232.563" y1="47.961" x2="225.13" y2="42.401"/>
+	<line id="RH4016_1_" style="fill:none;stroke:#00FF00;" x1="293.604" y1="41.085" x2="299.421" y2="47.814"/>
+	<line id="H4UniSex_1_" style="fill:none;stroke:#00FF00;" x1="301.994" y1="94.044" x2="307.176" y2="86.437"/>
+	<line id="H4Male_1_" style="fill:none;stroke:#00FF00;" x1="342.309" y1="94.044" x2="347.643" y2="86.14"/>
+	<line id="RH4021_1_" style="fill:none;stroke:#00FF00;" x1="253.077" y1="234.865" x2="258.614" y2="228.051"/>
+	<line id="H4Female_1_" style="fill:none;stroke:#00FF00;" x1="351.006" y1="182.596" x2="344.281" y2="190.334"/>
+	<line id="RH4019_2_" style="fill:none;stroke:#00FF00;" x1="350.97" y1="228.051" x2="360.573" y2="233.902"/>
+	<line id="RH4023_2_" style="fill:none;stroke:#00FF00;" x1="172.743" y1="160.609" x2="168.057" y2="170.41"/>
+	<line id="RH4022_2_" style="fill:none;stroke:#00FF00;" x1="172.743" y1="233.902" x2="168.057" y2="244.729"/>
+	<line id="H4Lobby_1_" style="fill:none;stroke:#00FF00;" x1="460.031" y1="141.445" x2="450.969" y2="136.469"/>
+	<line id="RH4011_1_" style="fill:none;stroke:#00FF00;" x1="370.516" y1="47.814" x2="370.852" y2="41.085"/>
+	<line id="H4Comm_1_" style="fill:none;stroke:#00FF00;" x1="314.221" y1="182.596" x2="306.531" y2="185.332"/>
+	<line id="H4Store_1_" style="fill:none;stroke:#00FF00;" x1="327.525" y1="91.763" x2="331.088" y2="85.391"/>
+	<line id="RH4020_1_" style="fill:none;stroke:#00FF00;" x1="304.984" y1="227.968" x2="310.376" y2="233.902"/>
+</g>
+<g id="Paths">
+	<line style="fill:none;stroke:#00FFFF;" x1="215.723" y1="207.277" x2="215.723" y2="234.865"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="215.723" y1="207.277" x2="215.723" y2="160.168"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="172.743" y1="233.902" x2="215.723" y2="234.865"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="215.723" y1="234.865" x2="215.723" y2="278.084"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="307.441" y1="64.08" x2="299.421" y2="47.814"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="307.441" y1="64.08" x2="276.892" y2="64.826"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="420.605" y1="5.974" x2="412.688" y2="32.012"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="412.688" y1="32.012" x2="412.688" y2="65.572"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="215.723" y1="207.277" x2="260.681" y2="207.277"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="260.681" y1="207.277" x2="258.614" y2="228.051"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="260.681" y1="207.277" x2="301.994" y2="207.277"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="306.531" y1="185.332" x2="301.994" y2="207.277"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="344.281" y1="207.277" x2="301.994" y2="207.277"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="344.281" y1="190.334" x2="344.281" y2="207.277"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="344.281" y1="207.277" x2="350.97" y2="228.051"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="412.688" y1="207.277" x2="344.281" y2="207.277"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="412.688" y1="244.729" x2="412.688" y2="278.084"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="412.688" y1="207.277" x2="412.688" y2="244.729"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="412.688" y1="207.277" x2="412.688" y2="136.469"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="412.688" y1="136.469" x2="450.969" y2="136.469"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="412.688" y1="115.627" x2="412.688" y2="136.469"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="339.365" y1="118.201" x2="363.9" y2="109.186"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="412.688" y1="65.572" x2="412.688" y2="115.627"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="412.688" y1="65.572" x2="376.656" y2="65.572"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="376.656" y1="65.572" x2="370.516" y2="47.814"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="376.656" y1="65.572" x2="347.643" y2="65.572"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="347.643" y1="86.14" x2="347.643" y2="65.572"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="347.643" y1="65.572" x2="331.088" y2="65.572"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="241.93" y1="65.572" x2="215.723" y2="65.572"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="331.088" y1="65.572" x2="307.441" y2="64.08"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="215.723" y1="65.572" x2="172.743" y2="63.614"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="307.176" y1="86.437" x2="307.441" y2="64.08"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="172.743" y1="160.609" x2="215.723" y2="160.168"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="215.723" y1="138.958" x2="215.723" y2="160.168"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="241.93" y1="65.572" x2="232.563" y2="47.961"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="255.318" y1="148.232" x2="255.318" y2="126.048"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="276.892" y1="64.826" x2="241.93" y2="65.572"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="215.723" y1="138.958" x2="215.723" y2="65.572"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="331.088" y1="85.391" x2="331.088" y2="65.572"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="304.984" y1="227.968" x2="301.994" y2="207.277"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="363.9" y1="109.186" x2="412.688" y2="115.627"/>
+	<line style="fill:none;stroke:#00FFFF;" x1="215.723" y1="138.958" x2="255.318" y2="126.048"/>
+</g>
+</svg>

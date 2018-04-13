@@ -1,0 +1,355 @@
+/* reset */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike,  sub, sup, tt, var, b, u, i, center, dl, dt, dd, ul, ul li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, button, output, ruby, section, summary, time, mark, audio, video {
+	font-family: 'Raleway', sans-serif;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font: inherit;
+	text-decoration: none;
+	list-style: none;
+}
+
+body {
+    font-family: 'Open Sans', serif;
+    color: #000000;
+	position:relative;
+	height:100%;
+	width:100%;
+	margin:auto;
+	background-color:#ffffff;
+	padding:0;
+	overflow-x:hidden;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    font-family: 'Saira Extra Condensed', serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #343a40;
+	letter-spacing: 1px;
+}
+h1 {
+    font-size: 2.5rem;
+    line-height: 2.5rem;
+	text-align:center;
+	padding:20px;
+}
+h2 {
+    font-size: 1.5rem;
+}
+h3 {
+    font-size: 1.2rem;	
+	letter-spacing: 1.4px;
+}
+.subheading {
+    text-transform: uppercase;
+    font-weight: 500;
+    font-family: 'Saira Extra Condensed', serif;
+    font-size: 1rem;
+}
+
+/* preloader */
+.preloader
+    {
+        position: fixed;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          z-index: 9999;
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: -ms-flexbox;
+          display: flex;
+          -webkit-flex-flow: row nowrap;
+              -ms-flex-flow: row nowrap;
+                  flex-flow: row nowrap;
+          -webkit-box-pack: center;
+          -webkit-justify-content: center;
+              -ms-flex-pack: center;
+                  justify-content: center;
+          -webkit-box-align: center;
+          -webkit-align-items: center;
+              -ms-flex-align: center;
+                  align-items: center;
+    }
+.mainloader {
+  width: 50px;
+  height: 50px;
+  background-color: #d13138;
+  -webkit-animation: rotate 1.2s infinite ease-in-out;
+  animation: rotate 1.2s infinite ease-in-out;
+}
+
+@-webkit-keyframes rotate {
+  0% { 
+    -webkit-transform: perspective(120px);
+    background-color: #2D8ED0;  
+  }
+  50% { 
+    -webkit-transform: perspective(120px) rotateY(180deg);
+    background-color: #D97243;  
+  }
+  75% {
+    background-color: #1DB475;
+  }
+  100% { 
+    -webkit-transform: perspective(120px) rotateY(180deg)  rotateX(180deg);
+    background-color: #2D8ED0; 
+  }
+}
+
+@keyframes rotate {
+  0% { 
+    transform: perspective(120px) rotateX(0deg) rotateY(0deg);
+    -webkit-transform: perspective(120px) rotateX(0deg) rotateY(0deg) 
+  } 50% { 
+    transform: perspective(120px) rotateX(-180.1deg) rotateY(0deg);
+    -webkit-transform: perspective(120px) rotateX(-180.1deg) rotateY(0deg) 
+  } 100% { 
+    transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
+    -webkit-transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
+  }
+}
+/* end preloader */
+
+
+/* all element begin here */
+/* container intro */
+#boxintro{
+width:100%; 
+height:100%;
+position:fixed; 
+top: 0;
+left: 0; 
+background:rgba(255, 255, 255, 0.2);
+}
+
+	
+    #content {
+        position: fixed;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          opacity:0;
+          z-index: 1001;
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: -ms-flexbox;
+          display: flex;
+          -webkit-flex-flow: column;
+              -ms-flex-flow: column;
+                  flex-flow: column;
+          -webkit-box-pack: center;
+          -webkit-justify-content: center;
+              -ms-flex-pack: center;
+                  justify-content: center;
+          -webkit-box-align: center;
+          -webkit-align-items: center;
+              -ms-flex-align: center;
+                  align-items: center;
+    }  
+	
+    
+	 #logo {
+        -webkit-transform: scale(0);  /* Chrome, Opera 15+, Safari 3.1+ */
+            -ms-transform: scale(0);  /* IE 9 */
+                transform: scale(0);  /* Firefox 16+, IE 10+, Opera */	
+    }
+		#logo img{
+			margin-top:10px;
+			width:15em;}
+	 #data {
+        -webkit-transform: translateY(200px);  /* Chrome, Opera 15+, Safari 3.1+ */
+        -ms-transform: translateY(200px);  /* IE 9 */
+        transform: translateY(200px);  /* Firefox 16+, IE 10+, Opera */
+		text-align:center;
+    }
+	
+	 #contents {
+        position: fixed;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          opacity:0;
+          z-index: 1001;
+		text-align:center;
+		color:#FFFFFF;
+		opacity:0;
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: -ms-flexbox;
+          display: flex;
+          -webkit-flex-flow: column;
+              -ms-flex-flow: column;
+                  flex-flow: column;
+          -webkit-box-align: center;
+          -webkit-align-items: center;
+              -ms-flex-align: center;
+                  align-items: center;
+		overflow-y:scroll;
+    }
+	
+    .loader #content {
+		opacity:1;
+        -webkit-transition: all 1s 1s ease-out;  
+                transition: all 1s 1s ease-out;
+    }
+	.loader #contents {
+		opacity:1;
+        -webkit-transition: all 1s 1s ease-out;  
+                transition: all 1s 1s ease-out;
+    }
+	
+		
+    .loader #logo{
+		opacity:1;
+        -webkit-transform: scale(1);  /* Chrome, Opera 15+, Safari 3.1+ */
+            -ms-transform: scale(1);  /* IE 9 */
+                transform: scale(1);  /* Firefox 16+, IE 10+, Opera */	
+        -webkit-transition: all 1s 1s ease-out;  
+                transition: all 1s 1s ease-out;
+    }
+	
+	.loader #data {
+		opacity:1;
+        -webkit-transform: translateY(0);  /* Chrome, Opera 15+, Safari 3.1+ */
+        -ms-transform: translateY(0);  /* IE 9 */
+        transform: translateY(0);  /* Firefox 16+, IE 10+, Opera */	
+        -webkit-transition: all 1s 1s ease-out;  
+                transition: all 1s 1s ease-out;
+    }
+	
+  .loader .preloader{
+        opacity: 0;
+        -webkit-transition: all 0.3s ease-out;  
+                transition: all 0.3s ease-out;
+				display:none;
+   }
+   	
+	/*****************contents**********************/
+
+
+#myMaps{
+	width:80%;
+	height:auto;
+	margin:auto;
+	padding:0px;
+	overflow:hidden;
+	}
+.contain{
+	width:100%;
+	margin:auto;
+	}
+#controls {
+	width:100%;
+	margin:auto;
+	height:100%;
+	background-color:rgba(209,49,56,.9);
+}
+
+.mapsSec{
+	background-color: RGBA(0,0,0,.9);
+	width:100%;
+	height:100%;
+	margin:auto;
+	padding:15px 20px 20px 20px;
+	}
+	.mapsSec h3{
+		margin-top:5px;}
+	
+	.start{
+		padding:10px 0%;
+		margin:5px auto;
+		text-align:center;
+		}
+	.end{
+		border-left:5px solid #000000;
+		padding:10px 0%;
+		margin:5px auto;
+		text-align:center;
+		}
+		select{
+			padding:10px 20px;}
+			select option{				
+				text-transform: uppercase;
+				font-family: 'Saira Extra Condensed', serif;
+				font-size: .8rem;
+				letter-spacing: 2px;
+				}	
+			.part{
+				background-color:#000000;
+				color:White;		
+				letter-spacing: 4px;
+				}
+/* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+	  				
+	.info{
+		width:100%;
+		margin:auto;
+		text-align:center;
+		}
+		.info img{
+			width:100%;
+			margin:auto;}
+		.info p{
+			width:100%;
+			margin:auto;
+			padding:20px;
+			background-color:#000000;
+			color:#ffffff;
+			}					
+	
+.debugPath {
+	stroke: orange;
+	stroke-width: 5;
+}
+
+.debugRoom {
+	fill: red;
+	stroke: red;
+	stroke-width: 4;
+}
+
+.wayfindingRoom {
+	fill: #ffc;
+	stroke: blue;
+	stroke-width: 2;
+	stroke-dasharray: 5 3;
+}
+
+g.startPin path {
+	fill: cyan;
+}
+
+g.destinationPin path {
+	/*fill: green;*/
+}
+	
+
+@media screen and (min-width: 700px) and (max-width: 1100px) {
+
+  #myMaps{
+	  width:100%;
+	  margin:auto;
+	  }
+}	
+
+@media screen and (min-width: 0px) and (max-width: 700px) and (orientation: landscape) {
+  html {
+    transform: rotate(-90deg);
+    transform-origin: left top;
+    width: 100vh;
+    overflow-x: scroll;
+    position: absolute;
+    top: 100%;
+    left: 0;
+  }
+  #myMaps{
+	  width:100%;
+	  margin:auto;
+	  }
+}	
